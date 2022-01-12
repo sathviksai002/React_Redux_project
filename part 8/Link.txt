@@ -1,0 +1,6 @@
+Comparission of Rest and Graph
+https://www.rubrik.com/en/blog/technology/19/11/graphql-vs-rest-apis#:~:text=The%20Core%20Difference%20Between%20REST,a%20single%20endpoint%20using%20HTTP.
+
+Example of REST and Graph
+https://medium.com/codingthesmartway-com-blog/rest-vs-graphql-418eac2e3083
+
